@@ -10,9 +10,9 @@ IMPORTANT: Essential data contained within this app's repository is COPYRIGHTED 
 Contributors
 ------------
 
-###Dr Marcus Baw (GP, director BawMedical Ltd, director openGPSoC-CIC)
+### Dr Marcus Baw (GP, director BawMedical Ltd, director openGPSoC-CIC)
 * Twitter: https://twitter.com/marcus_baw
 * Web: http://www.bawmedical.co.uk
 
-###Paul Rubenstein (biomedical statistician)
+### Paul Rubenstein (biomedical statistician)
 * Twitter: https://twitter.com/PaulKRubenstein
